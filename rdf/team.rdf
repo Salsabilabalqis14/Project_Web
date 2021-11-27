@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:dbr="http://dbpedia.org/resource/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+        <rdf:Description rdf:about="http://www.teamsw.com/Zefania">
+            <foaf:name>Zefania Agustina Lumbangaol</foaf:name>
+            <foaf:nick>Zefania</foaf:nick>
+            <foaf:mbox rdf:resource="zefanialumbangaol@gmail.com"/>
+            <dbr:Job>Writer</dbr:Job>
+            <foaf:img rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/team1.jpeg?raw=true"/>
+        </rdf:Description>
+
+        <rdf:Description rdf:about="http://www.teamsw.com/Lidya">
+            <foaf:name>Lidya Gabriella Tarigan</foaf:name>
+            <foaf:nick>Lidya</foaf:nick>
+            <foaf:mbox rdf:resource="lidya.gabriella.tarigan@gmail.com"/>
+            <dbr:Job>Writer</dbr:Job>
+            <foaf:img rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/team2.jpeg?raw=true"/>
+        </rdf:Description>
+
+        <rdf:Description rdf:about="http://www.teamsw.com/Salsabila">
+            <foaf:name>Salsabila Balqis</foaf:name>
+            <foaf:nick>Salsabila</foaf:nick>
+            <foaf:mbox rdf:resource="salsabilabalqis1012@gmail.com"/>
+            <dbr:Job>Web Developer</dbr:Job>
+            <foaf:img rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/team3.jpeg?raw=true"/>
+        </rdf:Description>
+
+        <rdf:Description rdf:about="http://www.teamsw.com/Wilson">
+            <foaf:name>Wilson</foaf:name>
+            <foaf:nick>Wilson</foaf:nick>
+            <foaf:mbox rdf:resource="wilsgotrapc@gmail.com"/>
+            <dbr:Job>Web Developer</dbr:Job>
+            <foaf:img rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/team4.jpg?raw=true"/>
+        </rdf:Description>
+</rdf:RDF>
