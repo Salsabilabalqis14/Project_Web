@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:dbo="http://dbpedia.org/ontology/"
+         xmlns:dbr="http://dbpedia.org/resource/"
+         xmlns:dbp="http://dbpedia.org/property/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+
+        <rdf:Description rdf:about="http://BeachInd.com/about">
+            <rdfs:label>BeachInd</rdfs:label>
+            <rdfs:comment>You can find the most beautiful and pleasant places at the best prices with special discounts, you choose the place we will guide you all the way to wait, get your place now.</rdfs:comment>
+            <foaf:phone>+62 827398392</foaf:phone>
+            <dbr:Email>TubesLabSW14@gmail.com</dbr:Email>
+            <dbo:Location>Jl. Lestari, Kota Binjai</dbo:Location>
+            <dbp:logo rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/TubesLab/img/logo.png"/>
+            <foaf:img1 rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/TubesLab/img/utama1.jpg?raw=true" />
+            <foaf:img2 rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/TubesLab/img/utama2.jpg?raw=true" />
+            <foaf:img3 rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/TubesLab/img/about1.jpg?raw=true" />
+            <foaf:img4 rdf:resource="https://github.com/Salsabilabalqis14/Project_Web/blob/main/TubesLab/img/about2.jpeg?raw=true" />
+            <dbr:Video rdf:resource="https://vod-progressive.akamaized.net/exp=1639680261~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3523%2F20%2F517618479%2F2407207731.mp4~hmac=bdb3e896ccd0eb266db7728864961533ad0d88a1b3c78ed57801123f6b5fe3b7/vimeo-prod-skyfire-std-us/01/3523/20/517618479/2407207731.mp4?filename=pexels-mikhail-nilov-6981351.mp4"/>
+        </rdf:Description>
+
+
+    <!-- =======================Discover====================== -->
+    <rdf:Description rdf:about="http://BeachInd.com/Discover/Bali">
+        <rdfs:label>Bali</rdfs:label>
+        <rdfs:comment>Bali is a province in Indonesia whose capital city is Denpasar. Bali is also one of the islands in the Nusa Tenggara Archipelago.</rdfs:comment>
+        <rdf:type>province</rdf:type>
+        <dbr:Available>34 tours available</dbr:Available>
+        <foaf:img rdf:resource="https://a.cdn-hotels.com/gdcs/production51/d1983/1a7e2818-045b-4fcc-973c-6d5f63a523ec.jpg" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Discover/Aceh">
+        <rdfs:label>Aceh</rdfs:label>
+        <rdfs:comment>Aceh is a province in Indonesia whose capital is Banda Aceh. Aceh is located at the northern tip of the island of Sumatra and is the westernmost province in Indonesia.</rdfs:comment>
+        <rdf:type>province</rdf:type>
+        <dbr:Available>12 tours available</dbr:Available>
+        <foaf:img rdf:resource="https://www.nusatrip.com/blog/uploads/2016/09/sabang.jpg" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Discover/NTB">
+        <rdfs:label>Nusa Tenggara Barat </rdfs:label>
+        <rdfs:comment>West Nusa Tenggara is a province in Indonesia located in the western part of the Nusa Tenggara Islands. The capital of this province is in the city of Mataram.</rdfs:comment>
+        <rdf:type>province</rdf:type>
+        <dbr:Available>20 tours available</dbr:Available>
+        <foaf:img rdf:resource="https://asset.kompas.com/crops/01nWRUsVktTLtj_mF_qRduEG3YA=/0x61:740x554/750x500/data/photo/2020/05/18/5ec27908adb29.jpg" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Discover/Jatim">
+        <rdfs:label>Jawa Timur </rdfs:label>
+        <rdfs:comment>East Java is a province in the eastern part of Java Island, Indonesia. The capital city of East Java is the city of Surabaya. </rdfs:comment>
+        <rdf:type>province</rdf:type>
+        <dbr:Available>14 tours available</dbr:Available>
+        <foaf:img rdf:resource="https://pusakapusaka.com/wp-content/uploads/2015/10/2-Wisata-Pantai-Terindah-di-Jawa-Timur.jpg" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Discover/Papua">
+        <rdfs:label>Papua</rdfs:label>
+        <rdfs:comment>Papua is a province located in the central part of the island of Papua or the easternmost part of the Indonesian territory of Papua. </rdfs:comment>
+        <rdf:type>province</rdf:type>
+        <dbr:Available>15 tours available</dbr:Available>
+        <foaf:img rdf:resource="https://p4.wallpaperbetter.com/wallpaper/550/377/154/raja-ampat-islands-west-papua-timur-indonesia-beautiful-hd-wallpapers-for-desktop-wallpaper-preview.jpg" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Discover/Yogyakarta">
+        <rdfs:label>Yogyakarta </rdfs:label>
+        <rdfs:comment>The Special Region of Yogyakarta is a Special Region at the provincial level in Indonesia which is the fusion of the Sultanate of Yogyakarta and the Duchy of Paku Alaman.</rdfs:comment>
+        <rdf:type>province</rdf:type>
+        <dbr:Available>10 tours available</dbr:Available>
+        <foaf:img rdf:resource="https://image.vsco.co/1/54f3750e624e12458159/56aedb1f6b331efb7c8b4578/1136x1709/095cf994-b90d-4562-b64d-851ca3d565ca.jpg" />
+    </rdf:Description>
+
+
+<!-- ========================== Beach ===================== -->
+    <rdf:Description rdf:about="http://BeachInd.com/Beach/Pink_Beach">
+        <rdfs:label>Pink Beach</rdfs:label>
+        <rdfs:comment>Pink Beach or Tangsi Beach is one of two beaches in Indonesia that has pink or pink sand.</rdfs:comment>
+        <rdf:type rdf:resource="http://BeachInd.com/Discover/NTB"/>
+        <dbp:address>Desa Serokah, Kecamatan Jerowaru, Kabupaten Lombok Timur</dbp:address>
+        <dbo:runtime>08.00 - 17.00</dbo:runtime>
+        <dbr:Price>Rp250k</dbr:Price>
+        <dbo:rating>4.6</dbo:rating>
+        <dbr:Province>Nusa Tenggara Barat</dbr:Province>
+        <dbr:Tourist_attraction>Pink beach sand, the beauty of the sunset, awesome underwater scenery</dbr:Tourist_attraction>
+        <geo:lat>-8.8545998</geo:lat>
+        <geo:long>116.5579581</geo:long>
+        <foaf:img rdf:resource="https://wisatapro.com/wp-content/uploads/2019/12/pantai-pink.jpg" />
+        <foaf:homepage rdf:resource="https://www.traveloka.com/id-id/activities/indonesia/product/pink-beach-lombok-tur-1-hari-2001285392492"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Beach/Gili_Trawangan">
+        <rdfs:label>Gili Trawangan</rdfs:label>
+        <rdfs:comment>Gili Trawangan Beach has clear blue water and bright blue gradations on the white sandy beach.</rdfs:comment>
+        <rdf:type rdf:resource="http://BeachInd.com/Discover/NTB"/>
+        <dbp:address>Desa Gili Indah, Pemenang, Kabupaten Lombok Utara</dbp:address>
+        <dbo:runtime>09.00-17.30</dbo:runtime>
+        <dbr:Price>Rp200k</dbr:Price>
+        <dbo:rating>4.8</dbo:rating>
+        <dbr:Province>Nusa Tenggara Barat</dbr:Province>
+        <dbr:Tourist_attraction>Charming Beach, exotic underwater ecosystem, turtle hatchery</dbr:Tourist_attraction>
+        <geo:lat>-8.348346</geo:lat>
+        <geo:long>116.042915</geo:long>
+        <foaf:img rdf:resource="https://aeroindomagz.com/wp-content/uploads/2021/05/Gili-Islands-Scuba-Diving-Trawangan-Air-Lombok-Banner.jpg" />
+        <foaf:homepage rdf:resource="https://www.traveloka.com/id-id/packages/indonesia/area/gili-trawangan-107715"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Beach/Nusa_Dua_Beach">
+        <rdfs:label>Nusa Dua Beach</rdfs:label>
+        <rdfs:comment>Nusa Dua Beach is one of the famous beaches in Bali for its cleanliness and beauty.</rdfs:comment>
+        <rdf:type rdf:resource="http://BeachInd.com/Discover/Bali"/>
+        <dbp:address>Kawasan BTDC Area, Jalan Nusa Dua, Benoa, Kecamatan Kuta Selatan, Kabupaten Badung</dbp:address>
+        <dbo:runtime>07.30-17.00</dbo:runtime>
+        <dbr:Price>Rp350k</dbr:Price>
+        <dbo:rating>4.9</dbo:rating>
+        <dbr:Province>Bali</dbr:Province>
+        <dbr:Tourist_attraction>A safe, clean beach, away from the crowds, relax on the beach, ride a horse along the shoreline</dbr:Tourist_attraction>
+        <geo:lat>-8.795751</geo:lat>
+        <geo:long>115.232818</geo:long>
+        <foaf:img rdf:resource="https://a.cdn-hotels.com/gdcs/production153/d1086/e9112614-7f53-4aff-bbe7-6d25a15dcbd0.jpg" />
+        <foaf:homepage rdf:resource="https://www.traveloka.com/id-id/packages/indonesia/area/nusa-dua-107754"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Beach/Seminyak_Beach">
+        <rdfs:label>Seminyak Beach</rdfs:label>
+        <rdfs:comment>Seminyak Beach or Dhynapura Beach is synonymous with soft white sand and a favorite place for surfers.</rdfs:comment>
+        <rdf:type rdf:resource="http://BeachInd.com/Discover/Bali"/>
+        <dbp:address>Jl. Dhyana Pura No.99, Seminyak, Kuta, Badung Regency</dbp:address>
+        <dbo:runtime>08.00-17.00</dbo:runtime>
+        <dbr:Price>Rp240k</dbr:Price>
+        <dbo:rating>4.7</dbo:rating>
+        <dbr:Province>Bali</dbr:Province>
+        <dbr:Tourist_attraction>Enjoy the panoramic view of the beach, surfing with the waves, sunbathe and relax by the beach</dbr:Tourist_attraction>
+        <geo:lat>-8.691984</geo:lat>
+        <geo:long>115.157884</geo:long>
+        <foaf:img rdf:resource="https://media-cdn.tripadvisor.com/media/photo-p/1c/87/46/67/the-seminyak-beach-resort.jpg" />
+        <foaf:homepage rdf:resource="https://www.traveloka.com/id-id/activities/indonesia/product/paket-full-day-tour-bali-selatan-seminyak-dengan-supir-pribadi-by-penidago-6617054201979"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Beach/Banyu_Tibo">
+        <rdfs:label>Banyu Tibo Beach</rdfs:label>
+        <rdfs:comment>Banyu Tibo Beach is a beach area that has a turquoise sea color and has a waterfall.</rdfs:comment>
+        <rdf:type rdf:resource="http://BeachInd.com/Discover/Jatim"/>
+        <dbp:address>Desa Widoro, Kecamatan Donorejo, Kabupaten Pacitan</dbp:address>
+        <dbo:runtime>08.30-18.30</dbo:runtime>
+        <dbr:Price>Rp150k </dbr:Price>
+        <dbo:rating>4.9</dbo:rating>
+        <dbr:Province>Jawa Timur</dbr:Province>
+        <dbr:Tourist_attraction>- A waterfall that directly falls to the beach, urrounded by rocky hills, surf</dbr:Tourist_attraction>
+        <geo:lat>-8.212565</geo:lat>
+        <geo:long>110.913132</geo:long>
+        <foaf:img rdf:resource="https://cdn.idntimes.com/content-images/community/2019/02/51645321-250254465717936-8079243751996783188-n-56db7be2ca479e35219cf028e234e029_600x400.jpg" />
+        <foaf:homepage rdf:resource="https://www.joglowisata.com/tour/paket-wisata-pacitan-1-hari"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://BeachInd.com/Beach/Iboih">
+        <rdfs:label>Iboih Beach</rdfs:label>
+        <rdfs:comment>Iboih Beach Sabang is one of the popular marine tourism destinations and the main tourist attractions in Sabang Pulau Weh.</rdfs:comment>
+        <rdf:type rdf:resource="http://BeachInd.com/Discover/Aceh"/>
+        <dbp:address>Pulau Weh, kota Sabang, Aceh Utara</dbp:address>
+        <dbo:runtime>09.00-18.00</dbo:runtime>
+        <dbr:Price>Rp170k</dbr:Price>
+        <dbo:rating>4.5</dbo:rating>
+        <dbr:Province>Aceh</dbr:Province>
+        <dbr:Tourist_attraction>Scuba diving, snorkeling in the Marine Park, walk from Tepin Layeu to Yulia Bungalow</dbr:Tourist_attraction>
+        <geo:lat>5.872860</geo:lat>
+        <geo:long>95.256697</geo:long>
+        <foaf:img rdf:resource="https://s3-ap-southeast-1.amazonaws.com/atourin.com/images/destination/aceh/pantai-iboih1576654012.jpg" />
+        <foaf:homepage rdf:resource="https://www.traveloka.com/id-id/packages/indonesia/city/sabang-101244"/>
+    </rdf:Description>
+
+</rdf:RDF>
